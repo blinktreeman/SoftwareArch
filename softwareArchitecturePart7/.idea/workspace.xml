@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="234c4839-8911-47ec-8de4-77af36c96dad" name="Changes" comment="add README">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IoX1YTqiK21Zs6LR6xrAHbU9hc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gb/softwareArchitecturePart7&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.bcomms.App" />
+      <module name="softwareArchitecturePart7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bcomms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="234c4839-8911-47ec-8de4-77af36c96dad" name="Changes" comment="" />
+      <created>1670848696640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670848696640</updated>
+      <workItem from="1670848697999" duration="2417000" />
+      <workItem from="1670873848855" duration="752000" />
+      <workItem from="1670908733853" duration="23295000" />
+      <workItem from="1671006007121" duration="238000" />
+      <workItem from="1671200093501" duration="3001000" />
+      <workItem from="1671258730454" duration="8189000" />
+      <workItem from="1671352388323" duration="632000" />
+    </task>
+    <task id="LOCAL-00001" summary="first try">
+      <created>1671354100533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671354100533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create new branch">
+      <created>1671354904891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671354904891</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change data sensors add gw">
+      <created>1671365285814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671365285814</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sensor gateway done">
+      <created>1671372297025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671372297025</updated>
+    </task>
+    <task id="LOCAL-00005" summary="report factory done">
+      <created>1671377877797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671377877797</updated>
+    </task>
+    <task id="LOCAL-00006" summary="short reports done">
+      <created>1671378499399</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671378499399</updated>
+    </task>
+    <task id="LOCAL-00007" summary="delete simplesensor">
+      <created>1671378869215</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671378869215</updated>
+    </task>
+    <task id="LOCAL-00008" summary="done">
+      <created>1671387953171</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671387953171</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add README">
+      <created>1671392622442</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671392622442</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first try" />
+    <MESSAGE value="create new branch" />
+    <MESSAGE value="change data sensors add gw" />
+    <MESSAGE value="sensor gateway done" />
+    <MESSAGE value="report factory done" />
+    <MESSAGE value="short reports done" />
+    <MESSAGE value="delete simplesensor" />
+    <MESSAGE value="done" />
+    <MESSAGE value="add README" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README" />
+  </component>
+</project>

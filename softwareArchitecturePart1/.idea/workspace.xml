@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="some correct">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/ModelStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/ModelStore.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I5PwtWomFSge3fsyjfHW1Brtkn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.bcomms.App" />
+      <module name="softwareArchitecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bcomms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="" />
+      <created>1669468716019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669468716019</updated>
+      <workItem from="1669468719002" duration="14543000" />
+      <workItem from="1669490179181" duration="97000" />
+      <workItem from="1669490887776" duration="4928000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1669468809483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669468809483</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add diagram">
+      <created>1669469012087</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669469012087</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Point3D create PolygonalModel methods">
+      <created>1669479551334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669479551334</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create Point3D fields n methods">
+      <created>1669479998891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669479998891</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create Polygon fields n methods">
+      <created>1669480441561</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669480441561</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create Texture class">
+      <created>1669481396619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669481396619</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create Angle3D class">
+      <created>1669481783611</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669481783611</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add Color enum">
+      <created>1669481998929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669481998929</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Flash class done">
+      <created>1669482528393</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669482528393</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Flash class correct">
+      <created>1669482949380</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669482949380</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Camera class done">
+      <created>1669483206381</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669483206381</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Scene class done">
+      <created>1669484156013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669484156013</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correct constructors">
+      <created>1669484855493</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669484855493</updated>
+    </task>
+    <task id="LOCAL-00014" summary="task done">
+      <created>1669489968007</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669489968007</updated>
+    </task>
+    <task id="LOCAL-00015" summary="task done">
+      <created>1669490229041</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669490229041</updated>
+    </task>
+    <task id="LOCAL-00016" summary="some correct">
+      <created>1669493377509</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669493377509</updated>
+    </task>
+    <task id="LOCAL-00017" summary="some correct">
+      <created>1669493686150</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669493686150</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="add diagram" />
+    <MESSAGE value="add Point3D create PolygonalModel methods" />
+    <MESSAGE value="create Point3D fields n methods" />
+    <MESSAGE value="create Polygon fields n methods" />
+    <MESSAGE value="create Texture class" />
+    <MESSAGE value="create Angle3D class" />
+    <MESSAGE value="add Color enum" />
+    <MESSAGE value="Flash class done" />
+    <MESSAGE value="Flash class correct" />
+    <MESSAGE value="Camera class done" />
+    <MESSAGE value="Scene class done" />
+    <MESSAGE value="correct constructors" />
+    <MESSAGE value="task done" />
+    <MESSAGE value="some correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="some correct" />
+  </component>
+</project>
